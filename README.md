@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi , I'm Illia</h1>
+<h3 align="center">I am an enthusiastic Software Engineer</h3>
 
-<!--
-**Illia65/Illia65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋‍♂️ About Me
+
+🌱 I’m currently learning **TypeScript**
+
+- 👯 I’m looking to collaborate on **any Projects**
+
+- 📫 How to reach me **ilaovcaruk0@gmail.com**
+
+- ⚡ Fun fact **I use dark mode on everything, even my toaster.**
+
