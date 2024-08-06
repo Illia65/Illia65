@@ -29,7 +29,19 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux icon" width="40" height="40"/>
 </p>
 
-## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/illia-ovcharuk-b3a46324b/)
-- [GitHub](https://github.com/Illia65)
+##  🌐 Connect with me:
+<p align="left">
+
+<a href="https://www.linkedin.com/in/illia-ovcharuk-b3a46324b/" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
+</a>
+<a href="https://t.me/illia_ovcharuk" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/telegram-app" alt="Telegram"/>
+</a>
+
+
+
+</p>
+
+
