@@ -3,12 +3,10 @@
 
 ## 🙋‍♂️ About Me
 
-🌱 I’m currently learning **TypeScript** and exploring new technologies in the web development landscape.
-
 - 👯 I’m looking to collaborate on **exciting projects** and contribute to open-source communities.
 - 💬 Ask me about **JavaScript, TypeScript, React, Next.js, or anything related to web development**.
 - 📫 How to reach me: [ilaovcaruk0@gmail.com](mailto:ilaovcaruk0@gmail.com)
-- ⚡ Fun fact: **I use dark mode on everything, even my toaster!** 😎
+
 
 ## 🛠️ Technologies & Tools
 
